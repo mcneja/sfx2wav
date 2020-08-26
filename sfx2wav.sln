@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sfx2wav", "sfx2wav.vcxproj", "{85546AC4-E37B-4710-A814-C3FD3107DD1F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gsm-1.0-pl10", "gsm-1.0-pl10\gsm-1.0-pl10.vcxproj", "{38708DD2-1719-4418-A26C-B789ED77949D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85546AC4-E37B-4710-A814-C3FD3107DD1F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{85546AC4-E37B-4710-A814-C3FD3107DD1F}.Debug|Win32.Build.0 = Debug|Win32
+		{85546AC4-E37B-4710-A814-C3FD3107DD1F}.Release|Win32.ActiveCfg = Release|Win32
+		{85546AC4-E37B-4710-A814-C3FD3107DD1F}.Release|Win32.Build.0 = Release|Win32
+		{38708DD2-1719-4418-A26C-B789ED77949D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{38708DD2-1719-4418-A26C-B789ED77949D}.Debug|Win32.Build.0 = Debug|Win32
+		{38708DD2-1719-4418-A26C-B789ED77949D}.Release|Win32.ActiveCfg = Release|Win32
+		{38708DD2-1719-4418-A26C-B789ED77949D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
